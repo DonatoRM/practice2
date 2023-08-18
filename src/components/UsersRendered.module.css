@@ -1,0 +1,15 @@
+.loading,
+.error,
+.empty {
+	text-align: start;
+	font-weight: bold;
+}
+.loading {
+	color: green;
+}
+.error {
+	color: red;
+}
+.empty {
+	color: orange;
+}

@@ -1,0 +1,16 @@
+.wrapper {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	padding: 1rem;
+	border-radius: 1rem;
+	border-radius: none;
+	outline: none;
+	box-shadow: 1px 1px 0.5rem gray;
+	margin-bottom: 1rem;
+}
+.name {
+	width: 100%;
+	font-weight: bold;
+}
